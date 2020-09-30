@@ -1,4 +1,4 @@
-# SymPy Paper
+# SymPy Paper in Python
 
 This is the source repository for the paper:
 
